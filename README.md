@@ -16,42 +16,46 @@ Safepp más que una aplicación es una forma intuitiva y flexible, hecha para su
  
 **AUTENTICACION**
 
-![image](https://github.com/user-attachments/assets/fbcb2a8f-51e7-488d-8d93-67380456637b)
+![image](https://github.com/user-attachments/assets/43257788-b006-465d-83b8-cadb838e4a91)
+
 
 Servicio de autenticación para verificación de asistencia a los frentes de trabajo, añade o elimina usuarios desde el servidor de Firebase y visualiza los eventos de manera remota.  
 
 **LECTOR DE CODIGOS QR**
 
-<img src="https://github.com/user-attachments/assets/f36349c6-a0b0-4e03-979d-7986f2e89a5a" alt="image" width="300"/>
+<img src="https://github.com/user-attachments/assets/9cd149d7-d7ab-459d-a2a2-f59c9c0b1165" alt="image" width="300"/>
 
-<img src="https://github.com/user-attachments/assets/15cc5e07-d149-4153-ae8d-dcfb144126a8" alt="image" width="300"/>
-
+<img src="https://github.com/user-attachments/assets/650409e4-8920-4fba-acde-42fb00957ef3" alt="image" width="300"/>
 
 Verifique y cargue los puntos de control de su ronda mediante códigos QR de manera practica y flexible tan solo con la cámara de su celular.  
  
 **SERVICIOS DE UBICACIÓN**
 
-![image](https://github.com/user-attachments/assets/37bfcf11-2bda-420d-b40e-1ec1d5d69142)
+![image](https://github.com/user-attachments/assets/d8083639-8596-4410-8245-3faa18d0c9f9)
+
 
 Con los servicios de ubicación de Google sabrás donde tomaste los puntos de control, de manera precisa.  
 
  
 **REGISTRO**
 
-![image](https://github.com/user-attachments/assets/7638d7ce-751e-4500-8220-8f373e952753)
+![image](https://github.com/user-attachments/assets/d76d1ec5-12f2-4952-8393-47fee3e4464f)
 
 
 Almacene más de 1000 puntos de control, ubicaciones, fechas y horas en la memoria de su dispositivo móvil y Cree de manera intuitiva y de fácil manejo su informe de ronda. 
  
 **EXPORTACION.** 
 
-![image](https://github.com/user-attachments/assets/808ae93e-7e30-4b04-8f8c-79c7bda65403)
+![image](https://github.com/user-attachments/assets/0fbd0529-d622-4f29-af6a-4e2f75298856)
+
 
 
 Exporte su informe de ronda a formato CSV y visualice sus puntos de control en una hoja de Excel. La información puede compartirse a otros dispositivos e incluso a un ordenador.  
  
-   **VENTAJAS DE SAFEPP** 
-  
+ ![image](https://github.com/user-attachments/assets/a2a94b07-0a93-4131-8d65-ffa12346e90e)
+ 
+   **VENTAJAS DE SAFEPP**
+
 Reubicación de puntos de control de manera flexible, los códigos QR se pueden asignar de múltiples formas a los diferentes lugares que necesiten ser vigilados. 
 Los códigos QR son mucho más económicos que los convencionales TAG o receptores de proximidad usados en los relojes de marcación. 
 
