@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context=".LoginSupervisor">
+
+    <LinearLayout
+        android:id="@+id/authLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center|center_horizontal|center_vertical"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+
+        <TextView
+            android:id="@+id/textView16Supervisor"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center|center_horizontal|center_vertical"
+            android:text="Login"
+            android:textSize="26dp" />
+
+        <ImageView
+            android:id="@+id/imageViewSupervisor"
+            android:layout_width="111dp"
+            android:layout_height="117dp"
+            android:layout_marginTop="32dp"
+            android:layout_marginBottom="32dp"
+            app:srcCompat="@drawable/supervisor" />
+
+        <EditText
+            android:id="@+id/emailSupervisor"
+            android:layout_width="match_parent"
+            android:layout_height="49dp"
+            android:layout_marginLeft="35dp"
+            android:layout_marginTop="0dp"
+            android:layout_marginRight="35dp"
+            android:ems="10"
+            android:gravity="left"
+            android:hint="Email"
+            android:inputType="textPersonName" />
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="49dp"
+            android:layout_marginLeft="35dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="35dp"
+            android:gravity="center|center_horizontal|center_vertical"
+            app:endIconMode="password_toggle">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/PasswordSupervisor"
+                android:layout_width="match_parent"
+                android:layout_height="49dp"
+                android:layout_marginTop="0dp"
+                android:hint="Password"
+                android:inputType="textPassword" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <Button
+            android:id="@+id/loginSupervisor"
+            android:layout_width="match_parent"
+            android:layout_height="49dp"
+            android:layout_marginLeft="35dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginRight="35dp"
+            android:drawableEnd="@drawable/ic_baseline_arrow_forward_24"
+            android:text="Login" />
+
+        <Button
+            android:id="@+id/button_registerSupervisor"
+            android:layout_width="match_parent"
+            android:layout_height="49dp"
+            android:layout_marginLeft="35dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="35dp"
+            android:drawableEnd="@drawable/ic_baseline_people_24"
+            android:text="Register" />
+    </LinearLayout>
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

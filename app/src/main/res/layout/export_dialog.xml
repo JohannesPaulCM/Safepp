@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="370dp"
+        android:layout_height="400dp"
+        android:gravity="center"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.498">
+
+        <ImageView
+            android:id="@+id/imageView5"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_marginTop="5dp"
+            app:srcCompat="@drawable/ic_baseline_arrow_upward_24" />
+
+        <TextView
+            android:id="@+id/textViewNotice"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:gravity="center"
+            android:text="Digite su nombre completo para exportar el informe de RONDA:" />
+
+        <EditText
+            android:id="@+id/editTextTextName"
+            android:layout_width="300dp"
+            android:layout_height="56dp"
+            android:layout_marginTop="16dp"
+            android:ems="10"
+            android:hint="Name:"
+            android:inputType="text" />
+
+        <Button
+            android:id="@+id/buttonExport"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="Export" />
+
+        <Button
+            android:id="@+id/buttonCancelar"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="Cancelar" />
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
