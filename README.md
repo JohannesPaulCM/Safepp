@@ -5,10 +5,11 @@ Android Application for the supervision the security area, this application is d
   <img src="https://github.com/user-attachments/assets/7f011b2c-6d94-40ca-8d09-41aa20706022" alt="image"/>
 </div>
 
+<div align="center">
+  Safepp 
+  {Control de ronda mediante dispositivo Android} 
+</div>
 
-Safepp 
-{Control de ronda mediante dispositivo Android} 
- 
 Safepp más que una aplicación es una forma intuitiva y flexible, hecha para supervisar la seguridad y tener el control en la palma de tu mano… 
 
 
