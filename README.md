@@ -2,11 +2,10 @@
 Android Application for the supervision the security area, this application is developed with KOTLIN language
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/fed5e50a-aacb-4b7d-b085-2f5aa886286f" alt="image" />
+  <img src="https://github.com/user-attachments/assets/7f011b2c-6d94-40ca-8d09-41aa20706022" alt="image"/>
 </div>
 
- 
- 
+
 Safepp 
 {Control de ronda mediante dispositivo Android} 
  
